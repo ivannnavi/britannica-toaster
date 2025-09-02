@@ -57,7 +57,7 @@ const Toaster = ({ isVisible, onClose }) => {
             
             {/* Header */}
               <span className="inline-block px-2 py-1 text-sm font-medium text-blue-600 bg-blue-100 rounded-full my-2">
-                Britannica Merch
+                Britannica Merch Test
               </span>
               <h3 className="text-md md:text-lg font-semibold text-gray-900 mb-1">
               Knowledge looks good on you.
